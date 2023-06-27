@@ -8,7 +8,9 @@ The workflow is shown below:
 2. Generate flakes of the layers that you want to analyze
 3. Use the prepare function to prepare the data
 4. Visualize it.
+
 Details for every function:
+
 1. layer_sep: It takes two input values. The first one is the ASE atoms object of the structure. The second one is periodicity (True or False). It returns a list that contains ASE atoms object for every layer.  
 
 Attention: The structures can't contain free atoms. Free atoms will be identified as independent layers. The distances amongst atoms should be appropriate that can't be identified as being bonded for atoms in different layers.  
