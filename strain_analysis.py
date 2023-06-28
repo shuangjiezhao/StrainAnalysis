@@ -184,7 +184,7 @@ class StrainAnalysis:
         self.bond_diff = bond_diff
         self.z_change = z_change
         
-        return [bond_z_change,bondlist_left_coor_x,bondlist_right_coor_x,bondlist_left_coor_y,bondlist_right_coor_y,str_opt_x,str_opt_y,bond_diff,z_change]
+        return
           
     def prepare_COF(self,str_orig,str_opt):
 #python simple plot for strain
