@@ -29,6 +29,6 @@ Details for every function:
 
 8. add_COF: add the COF framework on top of graphene after visualizing the strain.  
 
-Here is an overview of the workflow example
+Here is an overview of the workflow example:  
 <img width="325" alt="image" src="https://github.com/shuangjiezhao/StrainAnalysis/assets/137879800/8ec00cfb-b4cd-4936-9504-c9becad0d2b8">
 
