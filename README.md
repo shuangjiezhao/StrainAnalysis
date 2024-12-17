@@ -22,8 +22,8 @@ The Strain Analysis Toolkit is a powerful Python package designed for in-depth a
 ```bash
 pip install git+https://github.com/yourusername/strain-analysis.git
 
-##Usage
-###Example
+### Usage
+### Example
 pythonCopyfrom strain_analysis import StrainAnalysis
 
 # Initialize strain analysis
