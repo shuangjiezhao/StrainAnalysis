@@ -20,7 +20,7 @@ The Strain Analysis Toolkit is a powerful Python package designed for in-depth a
 
 ### Install via pip
 ```bash
-pip install git+https://github.com/yourusername/strain-analysis.git
+pip install git+https://github.com/shuangjiezhao/strain-analysis.git
 ```
 ## Usage
 ```python
