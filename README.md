@@ -19,13 +19,14 @@ The Strain Analysis Toolkit is a powerful Python package designed for in-depth a
 - ASE (Atomic Simulation Environment)
 
 ### Install via pip
+``bash
 pip install git+https://github.com/yourusername/strain-analysis.git
 
 ## Usage
 ### Example
 pythonCopyfrom strain_analysis import StrainAnalysis
 
-####### Initialize strain analysis
+### Initialize strain analysis
 sa = StrainAnalysis()
 
 ### Separate layers from original and optimized structures
