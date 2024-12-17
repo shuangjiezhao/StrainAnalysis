@@ -19,7 +19,6 @@ The Strain Analysis Toolkit is a powerful Python package designed for in-depth a
 - ASE (Atomic Simulation Environment)
 
 ### Install via pip
-```bash
 pip install git+https://github.com/yourusername/strain-analysis.git
 
 ## Usage
