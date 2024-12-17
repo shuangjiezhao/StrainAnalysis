@@ -25,10 +25,10 @@ pip install git+https://github.com/yourusername/strain-analysis.git
 ### Example
 pythonCopyfrom strain_analysis import StrainAnalysis
 
-# Initialize strain analysis
+####### Initialize strain analysis
 sa = StrainAnalysis()
 
-# Separate layers from original and optimized structures
+### Separate layers from original and optimized structures
 layers_before = sa.layer_sep(original_structure, True)
 layers_after = sa.layer_sep(optimized_structure, True)
 
