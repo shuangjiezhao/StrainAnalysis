@@ -51,10 +51,10 @@ plt.show()
 
 # Add COF frame on top of graphene
 sa.add_COF(fig, ax, 'green', 'cof_frame', 'your/path/')
-Documentation
-For more detailed information on the available functions and their usage, please refer to the package documentation.
-Contributing
-We welcome contributions to this project! If you have any ideas, bug fixes, or feature requests, please feel free to submit a pull request. Before starting, please review the contributing guidelines.
-License
-This project is licensed under the MIT License.
 ```
+
+## Contributing
+We welcome contributions to this project! If you have any ideas, bug fixes, or feature requests, please feel free to submit a pull request. Before starting, please review the contributing guidelines.
+
+## License
+This project is licensed under the MIT License.
